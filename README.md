@@ -33,4 +33,4 @@ console.log(var1, var2)
 ```
 
 
-Thanks to Porject Error for FiveM [TypeScript Boilerplate](https://github.com/project-error/fivem-typescript-boilerplate)
+Thanks to Project Error for FiveM [TypeScript Boilerplate](https://github.com/project-error/fivem-typescript-boilerplate)

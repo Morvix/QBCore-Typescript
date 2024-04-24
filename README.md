@@ -31,3 +31,6 @@ print(closestPlayer[1], closestPlayer[2])
 const [var1, var2]  = Framework.Functions.GetClosestPlayer({coords, coord1, coord2});
 console.log(var1, var2)
 ```
+
+
+Thanks to Porject Error for FiveM [TypeScript Boilerplate](https://github.com/project-error/fivem-typescript-boilerplate)

@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 name 'QBCore TypeScript Core'
-author 'soulkeeper.tsx (Team BroCode)'
+author 'morvix.ts'
 game 'gta5'
 files { "config.json", "shared.json" }
 server_script 'dist/server/**/*.js'
